@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-07 09:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: egr_consumer_regform.php:22
+msgid "Firm Name"
+msgstr ""
+
+#: egr_consumer_regform.php:26
+msgid "EDRPOU"
+msgstr ""
+
+#: egr_consumer_regform.php:30
+msgid "Official Address"
+msgstr ""
+
+#: egr_consumer_regform.php:34
+msgid "Postal Address"
+msgstr ""
+
+#: egr_consumer_regform.php:38
+msgid "Contact Person"
+msgstr ""
+
+#: egr_consumer_regform.php:41
+msgid "First Name"
+msgstr ""
+
+#: egr_consumer_regform.php:45
+msgid "Last Name"
+msgstr ""
+
+#: egr_consumer_regform.php:49
+msgid "Phone Number"
+msgstr ""
+
+#: egr_consumer_regform.php:60
+msgid "You must write a firm name"
+msgstr ""
+
+#. Name of the plugin
+msgid "EGR Consumer Registration Form"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://energogazrezerv.com.ua"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ruslan Shylov"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "rus.shilov@gmail.com"
+msgstr ""
+
+msgid "You must write a EDRPOU"
+msgstr ""
+
+msgid "You must write a Official Address"
+msgstr ""
+
+msgid "You must write a Postal Address"
+msgstr ""
+
+msgid "You must write a First Name"
+msgstr ""
+
+msgid "You must write a Last Name"
+msgstr ""
+
+msgid "You must write a Phone Number"
+msgstr ""

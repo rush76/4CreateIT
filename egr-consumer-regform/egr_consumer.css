@@ -1,0 +1,7 @@
+.cd_link {
+  text-align: right;
+  font-weight: bold;
+}
+.cd_link:hover {
+  color:red;
+}
